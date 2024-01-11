@@ -2,6 +2,7 @@ const express = require('express');
 const router = express.Router();
 const fs = require("fs");
 const blogDataFile = "./data/blogs.json";
+const { v4: uuidv4 } = require('uuid');
 
 
 const getBlogs = () => {
@@ -12,6 +13,15 @@ const getBlogs = () => {
 
 	return jsonData;
 };
+
+const addBlogPost = (newPost) => {
+    const blogData = getBlogs();
+    blogData.push(newPost);
+
+    const jsonString = JSON.stringify(blogData);
+    fs.writeFileSync(blogDataFile, jsonString);
+    return newPost.id;
+}
 
 router.get("/", (req, res)=>{
     const blogData = getBlogs();
@@ -35,5 +45,23 @@ router.get("/:id", (req, res) => {
 	}
 	res.status(200).json(blog);
 });
+
+router.post("/create", (req, res) => {
+    const postBody = req.body;
+    const newPost = {
+        ...postBody,
+        id: uuidv4(),
+        timestamp: Date.now(),
+        image:"http://localhost:8081/images/Romy.jpg"
+    }
+    
+    //write to json file
+    const blogId = addBlogPost(newPost);
+    if(!blogId){
+        res.status(400).json("error adding post");
+        return;
+    }
+    res.status(201).json(newPost);
+})
 
 module.exports = router;
