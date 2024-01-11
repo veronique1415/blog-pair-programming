@@ -133,21 +133,5 @@
     "category": "Science and Nature",
     "timestamp": "01/26/2022",
     "description": "Plunge into the depths of the ocean as we unravel the mysteries hidden beneath the waves. From vibrant coral reefs to the eerie abyss, join me in a marine exploration to discover the wonders and challenges of underwater life."
-  },
-  {
-    "title": "Oh hello",
-    "author": "new author",
-    "description": "Well well",
-    "id": "d9fb8929-b9f3-4bb7-a1ed-c6c12a70faf6",
-    "timestamp": 1704999556027,
-    "image": "http://localhost:8081/images/Romy.jpg"
-  },
-  {
-    "title": "This is fun",
-    "author": "Serious author",
-    "description": "We hope this works",
-    "id": "75ed73c3-03e1-4087-99ab-1eedfb8c9ac8",
-    "timestamp": 1704999744756,
-    "image": "http://localhost:8081/images/Romy.jpg"
   }
 ]
