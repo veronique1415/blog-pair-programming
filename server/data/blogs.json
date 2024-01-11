@@ -1,0 +1,138 @@
+[
+    {
+      "id" : "01", 
+      "title": "The Enigma of Galactic Wonders",
+      "image": "http://localhost8081/images/Romy.jpg",
+      "author": "Stella Nebula",
+      "category": "Space Exploration",
+      "timestamp": "01/12/2022",
+      "description": "Embark on a cosmic journey through the vastness of space, uncovering the mysteries of distant galaxies and celestial phenomena. From swirling nebulas to mysterious black holes, the universe holds secrets waiting to be revealed."
+    },
+    {
+      "id" : "02", 
+      "title": "Culinary Delights Around the World",
+      "image": "http://localhost8081/images/Romy.jpg",
+      "author": "Gourmet Explorer",
+      "category": "Food and Travel",
+      "timestamp": "01/13/2022",
+      "description": "Join me on a global gastronomic adventure as I savor delectable dishes from diverse cultures. From the vibrant street markets of Bangkok to the Michelin-starred restaurants of Paris, experience the rich tapestry of flavors that our world has to offer."
+    },
+    {
+      "id" : "03", 
+      "title": "In the Footsteps of Ancient Civilizations",
+      "image": "http://localhost8081/images/Romy.jpg",
+      "author": "Archaeo Traveler",
+      "category": "History",
+      "timestamp": "01/14/2022",
+      "description": "Unearth the remnants of ancient civilizations as we explore archaeological wonders from Machu Picchu to the pyramids of Egypt. Delve into the past and discover the stories etched in stone by our forebearers."
+    },
+    {
+      "id" : "04", 
+      "title": "Adrenaline Rush: Extreme Sports Chronicles",
+      "image": "http://localhost8081/images/Romy.jpg",
+      "author": "Thrill Seeker",
+      "category": "Sports and Adventure",
+      "timestamp": "01/15/2022",
+      "description": "From scaling towering cliffs to conquering raging rapids, join me in the heart-pounding world of extreme sports. Feel the adrenaline surge as we push our limits and defy gravity in pursuit of thrilling adventures."
+    },
+    {
+      "id" : "13",  
+      "title": "Whimsical Tales from the Enchanted Forest",
+      "image": "http://localhost8081/images/Romy.jpg",
+      "author": "Fae Folklore",
+      "category": "Fantasy",
+      "timestamp": "01/16/2022",
+      "description": "Step into the magical realm of the enchanted forest, where mythical creatures roam and ancient trees whisper secrets. Encounter fairies, elves, and mystical beings as we embark on a whimsical journey through nature's hidden wonders."
+    },
+    {
+      "id" : "05", 
+      "title": "Tech Trends: Navigating the Digital Frontier",
+      "image": "http://localhost8081/images/Romy.jpg",
+      "author": "Digital Nomad",
+      "category": "Technology",
+      "timestamp": "01/17/2022",
+      "description": "Explore the ever-evolving landscape of technology, from cutting-edge innovations to the latest trends in the digital world. Join me in navigating the digital frontier and staying ahead in this era of rapid technological advancement."
+    },
+    {
+      "id" : "06", 
+      "title": "Serenity in Nature: A Meditation Retreat",
+      "image": "http://localhost8081/images/Romy.jpg",
+      "author": "Zen Wanderer",
+      "category": "Wellness",
+      "timestamp": "01/18/2022",
+      "description": "Embark on a journey of self-discovery and inner peace amidst the tranquility of nature. Join me in a meditation retreat where we'll explore mindfulness, serenity, and the healing power of connecting with the natural world."
+    },
+    {
+      "id" : "14",   
+      "title": "Artistry in Motion: Capturing the Dance of Light",
+      "image": "http://localhost8081/images/Romy.jpg",
+      "author": "Luminary Artist",
+      "category": "Photography",
+      "timestamp": "01/19/2022",
+      "description": "Dive into the world of photography as we capture the ephemeral dance of light and shadow. From breathtaking sunsets to the dynamic energy of urban landscapes, explore the artistry in motion through the lens of a camera."
+    },
+    {
+      "id" : "07", 
+      "title": "Beyond the Brush: Exploring Abstract Art",
+      "image": "http://localhost8081/images/Romy.jpg",
+      "author": "Abstract Visionary",
+      "category": "Art and Design",
+      "timestamp": "01/20/2022",
+      "description": "Venture into the realm of abstract art, where imagination knows no bounds. Join me in deciphering the meaning behind bold strokes and vibrant colors, as we explore the limitless possibilities of creativity on a canvas."
+    },
+    {
+      "id" : "09", 
+      "title": "Hidden Gems: Unearthing Local Treasures",
+      "image": "http://localhost8081/images/Romy.jpg",
+      "author": "Local Explorer",
+      "category": "Travel",
+      "timestamp": "01/21/2022",
+      "description": "Discover the charm of off-the-beaten-path destinations as we unearth hidden gems in local communities. From quaint cafes to undiscovered landmarks, join me in exploring the treasures that make each place unique."
+    },
+    {
+     "id": "16",
+      "title": "Wonders of Wildlife: A Safari Adventure",
+      "image": "http://localhost8081/images/Romy.jpg",
+      "author": "Wildlife Enthusiast",
+      "category": "Nature",
+      "timestamp": "01/22/2022",
+      "description": "Embark on a thrilling safari adventure, encountering majestic wildlife in their natural habitats. From the untamed landscapes of the African savannah to the depths of the Amazon rainforest, witness the wonders of the animal kingdom."
+    },
+    {
+      "id" : "09", 
+      "title": "Fashion Forward: Trends Across the Decades",
+      "image": "http://localhost8081/images/Romy.jpg",
+      "author": "Style Maven",
+      "category": "Fashion",
+      "timestamp": "01/23/2022",
+      "description": "Take a stroll through the corridors of fashion history as we explore trends that have shaped the industry across the decades. From the roaring twenties to the vibrant styles of the '80s, join me in a fashionable journey through time."
+    },
+    {
+      "id" : "10", 
+      "title": "Mindful Parenting: Nurturing the Next Generation",
+      "image": "http://localhost8081/images/Romy.jpg",
+      "author": "Parenting Guru",
+      "category": "Family",
+      "timestamp": "01/24/2022",
+      "description": "Navigate the joys and challenges of parenthood as we delve into the world of mindful parenting. Explore strategies for fostering a nurturing environment, promoting growth, and building strong connections with the next generation."
+    },
+    {
+      "id" : "11", 
+      "title": "Epicurean Escapes: Culinary Adventures Abroad",
+      "image": "http://localhost8081/images/Romy.jpg",
+      "author": "Food Explorer",
+      "category": "Food and Travel",
+      "timestamp": "01/25/2022",
+      "description": "Embark on a gastronomic journey around the world, savoring the flavors of diverse cuisines. From street food in Asia to haute cuisine in Europe, join me in exploring culinary delights that transcend borders and tantalize the taste buds."
+    },
+    {
+      "id" : "12", 
+      "title": "Mysteries of the Deep: Underwater Exploration",
+      "image": "http://localhost8081/images/Romy.jpg",
+      "author": "Ocean Explorer",
+      "category": "Science and Nature",
+      "timestamp": "01/26/2022",
+      "description": "Plunge into the depths of the ocean as we unravel the mysteries hidden beneath the waves. From vibrant coral reefs to the eerie abyss, join me in a marine exploration to discover the wonders and challenges of underwater life."
+    }
+]
+    
