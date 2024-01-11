@@ -2,7 +2,7 @@
   {
     "id": "01",
     "title": "The Enigma of Galactic Wonders",
-    "image": "https://placekitten.com/400/300",
+    "image": "https://placekitten.com/1200/600",
     "author": "Stella Nebula",
     "category": "Space Exploration",
     "timestamp": "01/12/2022",
@@ -11,7 +11,7 @@
   {
     "id": "02",
     "title": "Culinary Delights Around the World",
-    "image": "https://placekitten.com/400/300",
+    "image": "https://placekitten.com/1200/600",
     "author": "Gourmet Explorer",
     "category": "Food and Travel",
     "timestamp": "01/13/2022",
@@ -20,7 +20,7 @@
   {
     "id": "03",
     "title": "In the Footsteps of Ancient Civilizations",
-    "image": "https://placekitten.com/400/300",
+    "image": "https://placekitten.com/1200/600",
     "author": "Archaeo Traveler",
     "category": "History",
     "timestamp": "01/14/2022",
@@ -29,7 +29,7 @@
   {
     "id": "04",
     "title": "Adrenaline Rush: Extreme Sports Chronicles",
-    "image": "https://placekitten.com/400/300",
+    "image": "https://placekitten.com/1200/600",
     "author": "Thrill Seeker",
     "category": "Sports and Adventure",
     "timestamp": "01/15/2022",
@@ -38,7 +38,7 @@
   {
     "id": "13",
     "title": "Whimsical Tales from the Enchanted Forest",
-    "image": "https://placekitten.com/400/300",
+    "image": "https://placekitten.com/1200/600",
     "author": "Fae Folklore",
     "category": "Fantasy",
     "timestamp": "01/16/2022",
@@ -47,7 +47,7 @@
   {
     "id": "05",
     "title": "Tech Trends: Navigating the Digital Frontier",
-    "image": "https://placekitten.com/400/300",
+    "image": "https://placekitten.com/1200/600",
     "author": "Digital Nomad",
     "category": "Technology",
     "timestamp": "01/17/2022",
@@ -56,7 +56,7 @@
   {
     "id": "06",
     "title": "Serenity in Nature: A Meditation Retreat",
-    "image": "https://placekitten.com/400/300",
+    "image": "https://placekitten.com/1200/600",
     "author": "Zen Wanderer",
     "category": "Wellness",
     "timestamp": "01/18/2022",
@@ -65,7 +65,7 @@
   {
     "id": "14",
     "title": "Artistry in Motion: Capturing the Dance of Light",
-    "image": "https://placekitten.com/400/300",
+    "image": "https://placekitten.com/1200/600",
     "author": "Luminary Artist",
     "category": "Photography",
     "timestamp": "01/19/2022",
@@ -74,7 +74,7 @@
   {
     "id": "07",
     "title": "Beyond the Brush: Exploring Abstract Art",
-    "image": "https://placekitten.com/400/300",
+    "image": "https://placekitten.com/1200/600",
     "author": "Abstract Visionary",
     "category": "Art and Design",
     "timestamp": "01/20/2022",
@@ -83,7 +83,7 @@
   {
     "id": "09",
     "title": "Hidden Gems: Unearthing Local Treasures",
-    "image": "https://placekitten.com/400/300",
+    "image": "https://placekitten.com/1200/600",
     "author": "Local Explorer",
     "category": "Travel",
     "timestamp": "01/21/2022",
@@ -101,7 +101,7 @@
   {
     "id": "15",
     "title": "Fashion Forward: Trends Across the Decades",
-    "image": "https://placekitten.com/400/300",
+    "image": "https://placekitten.com/1200/600",
     "author": "Style Maven",
     "category": "Fashion",
     "timestamp": "01/23/2022",
@@ -110,7 +110,7 @@
   {
     "id": "10",
     "title": "Mindful Parenting: Nurturing the Next Generation",
-    "image": "https://placekitten.com/400/300",
+    "image": "https://placekitten.com/1200/600",
     "author": "Parenting Guru",
     "category": "Family",
     "timestamp": "01/24/2022",
@@ -119,7 +119,7 @@
   {
     "id": "11",
     "title": "Epicurean Escapes: Culinary Adventures Abroad",
-    "image": "https://placekitten.com/400/300",
+    "image": "https://placekitten.com/1200/600",
     "author": "Food Explorer",
     "category": "Food and Travel",
     "timestamp": "01/25/2022",
@@ -128,10 +128,18 @@
   {
     "id": "12",
     "title": "Mysteries of the Deep: Underwater Exploration",
-    "image": "https://placekitten.com/400/300",
+    "image": "https://placekitten.com/1200/600",
     "author": "Ocean Explorer",
     "category": "Science and Nature",
     "timestamp": "01/26/2022",
     "description": "Plunge into the depths of the ocean as we unravel the mysteries hidden beneath the waves. From vibrant coral reefs to the eerie abyss, join me in a marine exploration to discover the wonders and challenges of underwater life."
+  },
+  {
+    "author": "Veronique",
+    "title": "This is a test ",
+    "description": "This is a description ",
+    "id": "b4d0dac0-fe13-4cfe-b933-2b1a67c3a687",
+    "timestamp": 1705005707876,
+    "image": "http://localhost:8081/images/Romy.jpg"
   }
 ]
