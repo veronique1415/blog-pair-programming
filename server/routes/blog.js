@@ -3,6 +3,7 @@ const router = express.Router();
 const fs = require("fs");
 const blogDataFile = "./data/blogs.json";
 
+
 const getBlogs = () => {
 	// Read the contents of the JSON file
 	const data = fs.readFileSync(blogDataFile);
