@@ -27,8 +27,9 @@ router.get("/", (req, res)=>{
 router.get("/:id", (req, res) => {
 	const blogData = getBlogs();
 	const { id } = req.params;
-	const blog = blogData.filter((blog) => blog.id === id);
-	if (!blog?.length) {
+	const blog = blogData.find((blog) => blog.id === id);
+    console.log(blog);
+	if (!blog) {
 		res.status(404).send({ msg: "No blog found" });
 		return;
 	}
